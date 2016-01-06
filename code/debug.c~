@@ -1,0 +1,35 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+#include "linklist.c"
+#include "builtreehelper.c"
+
+int main()
+{
+	/*struct node* start = NULL;
+	//start = addNode(start,1);
+	//start = addNode(start,0);
+	//start = addNode(start,1);
+	//start = addNode(start,4);
+	//start = addNode(start,15);
+	//start = addNode(start,3);
+	start = addNode(start, -1);
+
+	int size = listSize(start);
+	int* array = toArray(start,size);
+	printf("to array suc\n");
+	int i = 0;
+	int* array2 = deleteCurrentAttri(size,array,-1);
+	
+	for(i = 0; i<size-1; i++)
+		printf("%d ",array2[i]);
+	printf("\n");
+
+
+	free(array);
+	free(array2);
+	cleanList(start);*/
+
+	printf(" %lf\n", ((double)1)/0);
+	return 1;
+}

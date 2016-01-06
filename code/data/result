@@ -1,0 +1,13 @@
+decision_tree:
+mushroom 1076	0	3	959
+nursery 1059	17	590	499
+led24 383	99	129	383
+chess 392	8	7	362
+
+random_forest:
+mushroom 1062	14	20	942
+nursery 1076	0	599	490
+led24 409	73	317	195
+chess 399	2	79	289
+
+
